@@ -129,6 +129,7 @@ dmypy.json
 .pyre/
 
 ## CUSTOM
+.vscode
 
 # Secrets
 config.ini
